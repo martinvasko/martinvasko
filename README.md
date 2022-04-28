@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./media/martin.png" />
-</p>
 <h2 align="center" >
     Martin Vasko
 </h2>
@@ -8,7 +5,6 @@
 <br />
 
 ### Hi there 👋
-
 
 
 - 🔭 I’m currently working on
