@@ -16,15 +16,15 @@
 - 🌱 I’m currently learning
 
 [TensorFlow.js](https://www.tensorflow.org/js/) <br />
-[ARKit](https://developer.apple.com/documentation/arkit)
+[Cyber Resilience](https://www.ecb.europa.eu/paym/cyber-resilience/html/index.en.html) <br />
 
 - 👯 I’m looking to collaborate on
 
-Cool projects with a focus on AI on the web
+Cool projects with a focus on resilient systems
 
 - 💬 Ask me about
 
-Frontend development, iOS development, AI, Machine Learning, Deep Learning
+Frontend development, Deep Learning, Resilient systems and Security
 
 - 📫 How to reach me:
 
