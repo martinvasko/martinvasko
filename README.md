@@ -9,9 +9,7 @@
 
 - 🔭 I’m currently working on
 
-[Lean-Forge](https://lean-forge.at) 
-<br />
-[Teaching at FH St. Pölten](https://fhstp.ac.at)
+[Teaching at FH Technikum Wien](https://www.technikum-wien.at/)
 
 - 🌱 I’m currently learning
 
