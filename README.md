@@ -14,7 +14,8 @@
 - 🌱 I’m currently learning
 
 [TensorFlow.js](https://www.tensorflow.org/js/) <br />
-[Cyber Resilience](https://www.ecb.europa.eu/paym/cyber-resilience/html/index.en.html) <br />
+[Astro](https://astro.build/) <br />
+[Flutter](https://flutter.dev/)
 
 - 👯 I’m looking to collaborate on
 
