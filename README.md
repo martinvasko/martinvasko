@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on
 
-[Teaching at FH Technikum Wien](https://www.technikum-wien.at/)
+[Teaching at FH St. Pölten](https://fhstp.ac.at/)
 
 - 🌱 I’m currently learning
 
