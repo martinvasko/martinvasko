@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently
 
-[teaching at FH St. Pölten]([https://fhstp.ac.at/](https://www.fhstp.ac.at/en/about-us/staff-a-z/vasko-martin))
+[teaching at FH St. Pölten](https://www.fhstp.ac.at/en/about-us/staff-a-z/vasko-martin)
 
 - 🌱 I’m currently learning
 
