@@ -7,28 +7,27 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on
+- 🔭 I’m currently
 
-[Teaching at FH St. Pölten](https://fhstp.ac.at/)
+[teaching at FH St. Pölten]([https://fhstp.ac.at/](https://www.fhstp.ac.at/en/about-us/staff-a-z/vasko-martin))
 
 - 🌱 I’m currently learning
 
 [TensorFlow.js](https://www.tensorflow.org/js/) <br />
 [Astro](https://astro.build/) <br />
-[Flutter](https://flutter.dev/)
+[Flutter](https://flutter.dev/) <br />
+[visionOS](https://developer.apple.com/documentation/visionos)
 
 - 👯 I’m looking to collaborate on
 
-Cool projects with a focus on resilient systems
+Cool projects with a focus on augmented reality
 
 - 💬 Ask me about
 
-Frontend development, Deep Learning, Resilient systems and Security
+Frontend development, Deep Learning and AR/VR stuff
 
 - 📫 How to reach me:
 
-[Twitter](https://twitter.com/martvask)
-<br />
 [LinkedIn](https://www.linkedin.com/in/vaskomartin/)
 
 - ⚡ Fun fact:
