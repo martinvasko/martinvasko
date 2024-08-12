@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently
 
-[leading the tribe of Market Operations Next Generation and IT Services @ SDS](https://www.sds.at/))
+[leading the tribe of Market Operations Next Generation and IT Services @ SDS](https://www.sds.at/)
 
 - 🌱 I’m currently learning
 
