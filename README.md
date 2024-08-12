@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently
 
-[teaching at FH St. Pölten](https://www.fhstp.ac.at/en/about-us/staff-a-z/vasko-martin)
+[leading the tribe of Market Operations Next Generation and IT Services @ SDS](https://www.sds.at/))
 
 - 🌱 I’m currently learning
 
