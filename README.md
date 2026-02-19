@@ -9,22 +9,21 @@
 
 - 🔭 I’m currently
 
-[leading the tribe of Market Operations Next Generation and IT Services @ SDS](https://www.sds.at/)
+[Stiftungsprofessor for Data Analytics @ FH BFI](https://www.ots.at/presseaussendung/OTS_20260217_OTS0022/fh-des-bfi-wien-baut-mit-stadt-wien-stiftungsprofessur-ihr-kompetenzfeld-data-analytics-weiter-aus)
 
-- 🌱 I’m currently learning
+- 🌱 I’m currently working with
 
-[TensorFlow.js](https://www.tensorflow.org/js/) <br />
-[Astro](https://astro.build/) <br />
-[Flutter](https://flutter.dev/) <br />
-[visionOS](https://developer.apple.com/documentation/visionos)
+[Google's ADK](https://google.github.io/adk-docs/) <br />
+[Hugging Face](https://huggingface.co/) <br />
+[Ollama](https://ollama.com/) <br />
 
 - 👯 I’m looking to collaborate on
 
-Cool projects with a focus on augmented reality
+Cool projects with a focus on Data Science and GenAI
 
 - 💬 Ask me about
 
-Frontend development, Deep Learning and AR/VR stuff
+Data Science, Deep Learning and Reinforcement Learning
 
 - 📫 How to reach me:
 
