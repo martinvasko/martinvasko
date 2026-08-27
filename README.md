@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently
 
-[Stiftungsprofessor for Data Analytics @ FH BFI](https://www.ots.at/presseaussendung/OTS_20260217_OTS0022/fh-des-bfi-wien-baut-mit-stadt-wien-stiftungsprofessur-ihr-kompetenzfeld-data-analytics-weiter-aus)
+[CIO Consultant @ Erste Group Bank AG](https://www.erstegroup.com/)
 
 - 🌱 I’m currently working with
 
 [Google's ADK](https://google.github.io/adk-docs/) <br />
 [Hugging Face](https://huggingface.co/) <br />
-[Ollama](https://ollama.com/) <br />
+[Amazon Bedrock](https://aws.amazon.com/bedrock/) <br />
 
 - 👯 I’m looking to collaborate on
 
