@@ -1,7 +1,7 @@
 <h2 align="center" >
     Martin Vasko
 </h2>
-<h3 align="center" >Coding ideas to products</h3>
+<h3 align="center">Let's build something magical!</h3>
 <br />
 
 ### Hi there 👋
